@@ -1,0 +1,14 @@
+\subsubsection usage Usage
+\verbatim
+<node name="vn_100" pkg="vn_100" type="vn_100">
+  <param name="kp" type="double" value="70.0" />
+  <param name="ki" type="double" value="0.5" />
+  <param name="kd" type="double" value="50.0" />
+  <param name="kp_1" type="double" value="70.0" />
+  <param name="ki_1" type="double" value="0.5" />
+  <param name="kd_1" type="double" value="50.0" />
+  <param name="setpoint" type="double" value="0.0" />
+  <param name="setpoint_1" type="double" value="70.0" />
+</node>
+\endverbatim
+

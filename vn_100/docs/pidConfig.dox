@@ -1,0 +1,13 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~kp" : \b [double] kpvalue min: 0.0, default: 70.0, max: 100.0
+- \b "~ki" : \b [double] kivalue min: 0.0, default: 0.5, max: 2.0
+- \b "~kd" : \b [double] kdvalue min: 0.0, default: 50.0, max: 100.0
+- \b "~kp_1" : \b [double] kp_1value min: 0.0, default: 70.0, max: 100.0
+- \b "~ki_1" : \b [double] ki_1value min: 0.0, default: 0.5, max: 2.0
+- \b "~kd_1" : \b [double] kd_1value min: 0.0, default: 50.0, max: 100.0
+- \b "~setpoint" : \b [double] setpoint min: 0.0, default: 0.0, max: 1000.0
+- \b "~setpoint_1" : \b [double] setpoint_1 min: 0.0, default: 70.0, max: 1000.0
+
